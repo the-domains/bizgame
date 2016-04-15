@@ -1,7 +1,7 @@
 name: bizgame
 favicon: null
-layout_spectrum: 0.8174897450953722
-typography_spectrum: 0.3860883852466941
+layout_spectrum: 1
+typography_spectrum: 0.7546
 cta:
   domain: null
   bucket: null
